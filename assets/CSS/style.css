@@ -1,0 +1,22 @@
+.wrapper{
+    max-width: 1140px;
+            margin: auto;
+}
+
+.cards {
+    display:flex;
+    gap:10px;
+
+}
+
+.cards .card1 {
+    height:250px;
+    width:25%;
+} 
+
+.cards .card1 img{
+    height:100%;
+    width:100%;
+    object-fit:cover;
+    object-position: center;
+}
